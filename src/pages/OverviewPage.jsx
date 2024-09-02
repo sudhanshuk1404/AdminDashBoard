@@ -23,7 +23,7 @@ const OverviewPage = () => {
           <StatCard
             name="Total Sales"
             icon={Zap}
-            value="$12,345"
+            value="Rs 12,345"
             color="#6366F1"
           />
           <StatCard
