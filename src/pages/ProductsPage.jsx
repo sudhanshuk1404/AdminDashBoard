@@ -42,7 +42,7 @@ const ProductsPage = () => {
           <StatCard
             name="Total Revenue"
             icon={DollarSign}
-            value={"$ 543,210"}
+            value={"Rs 543,210"}
             color="#EF4444"
           />
         </motion.div>
